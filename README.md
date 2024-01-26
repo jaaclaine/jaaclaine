@@ -20,7 +20,9 @@ Sou desenvolvedora Front-end cursando Análise e Desenvolvimento de Sistemas pel
 
 Portfolio: [jaaclaine.github.io](https://jaaclaine.github.io/)
 
-<a href="https://www.linkedin.com/in/jaqueline-sodre/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mail:jaquelinesodre@live.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" target="_blank"></a>
+[jaquelinesodre@live.com](mail:jaquelinesodre@live.com)
+
+<a href="https://www.linkedin.com/in/jaqueline-sodre/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ##
 
