@@ -13,7 +13,7 @@ Sou desenvolvedora Front-end cursando Análise e Desenvolvimento de Sistemas pel
 > **Atualmente estudando:**
 >
 > - TypeScript
-> - Vue.js
+> - AngularJS
 > - Projeto atual: [Pokedex](https://github.com/jaaclaine/Pokedex)
 
 ### Contatos:
